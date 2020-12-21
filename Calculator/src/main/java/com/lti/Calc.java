@@ -9,6 +9,6 @@ public class Calc {
 	}
 	public static void main(String[] args) {
 		System.out.println("Sum="+add(10,20));
-		System.out.println("Diffs="+sub(90,20));
+		System.out.println("Diff="+sub(90,20));
 	}	
 }
